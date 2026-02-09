@@ -1,0 +1,1 @@
+In this assignment I learnede how to create and manage github repository using visual studio code.I practiced creating the files locally, tracking them with git, and pushing changes to a remote repository. I also learned how markdown files work and how they are used to format documentation. this task helped me better understand version control and basic git commands.
